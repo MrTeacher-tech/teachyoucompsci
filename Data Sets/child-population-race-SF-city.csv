@@ -1,0 +1,72 @@
+FIPSCode,LocationType,Location,ParentCounty,Race_Ethnicity,TimeFrame,DataFormat,Data
+06075,County,San Francisco County,,African American_Black,2010_2014,Number,"8,006"
+06075,County,San Francisco County,,African American_Black,2011_2015,Number,"7,700"
+06075,County,San Francisco County,,African American_Black,2012_2016,Number,"7,561"
+06075,County,San Francisco County,,African American_Black,2013_2017,Number,"7,379"
+06075,County,San Francisco County,,African American_Black,2014_2018,Number,"7,195"
+06075,County,San Francisco County,,American Indian_Alaska Native,2010_2014,Number,463
+06075,County,San Francisco County,,American Indian_Alaska Native,2011_2015,Number,403
+06075,County,San Francisco County,,American Indian_Alaska Native,2012_2016,Number,371
+06075,County,San Francisco County,,American Indian_Alaska Native,2013_2017,Number,534
+06075,County,San Francisco County,,American Indian_Alaska Native,2014_2018,Number,364
+06075,County,San Francisco County,,Asian American,2010_2014,Number,"35,688"
+06075,County,San Francisco County,,Asian American,2011_2015,Number,"35,743"
+06075,County,San Francisco County,,Asian American,2012_2016,Number,"35,533"
+06075,County,San Francisco County,,Asian American,2013_2017,Number,"35,069"
+06075,County,San Francisco County,,Asian American,2014_2018,Number,"34,433"
+06075,County,San Francisco County,,Hispanic_Latino of Any Race,2010_2014,Number,"25,506"
+06075,County,San Francisco County,,Hispanic_Latino of Any Race,2011_2015,Number,"25,971"
+06075,County,San Francisco County,,Hispanic_Latino of Any Race,2012_2016,Number,"26,468"
+06075,County,San Francisco County,,Hispanic_Latino of Any Race,2013_2017,Number,"26,826"
+06075,County,San Francisco County,,Hispanic_Latino of Any Race,2014_2018,Number,"27,223"
+06075,County,San Francisco County,,Multiracial,2010_2014,Number,"12,387"
+06075,County,San Francisco County,,Multiracial,2011_2015,Number,"13,457"
+06075,County,San Francisco County,,Multiracial,2012_2016,Number,"14,761"
+06075,County,San Francisco County,,Multiracial,2013_2017,Number,"15,323"
+06075,County,San Francisco County,,Multiracial,2014_2018,Number,"16,995"
+06075,County,San Francisco County,,Native Hawaiian_Pacific Islander,2010_2014,Number,883
+06075,County,San Francisco County,,Native Hawaiian_Pacific Islander,2011_2015,Number,854
+06075,County,San Francisco County,,Native Hawaiian_Pacific Islander,2012_2016,Number,590
+06075,County,San Francisco County,,Native Hawaiian_Pacific Islander,2013_2017,Number,672
+06075,County,San Francisco County,,Native Hawaiian_Pacific Islander,2014_2018,Number,535
+06075,County,San Francisco County,,Non_Hispanic_Latino White,2010_2014,Number,"31,178"
+06075,County,San Francisco County,,Non_Hispanic_Latino White,2011_2015,Number,"32,207"
+06075,County,San Francisco County,,Non_Hispanic_Latino White,2012_2016,Number,"33,122"
+06075,County,San Francisco County,,Non_Hispanic_Latino White,2013_2017,Number,"33,953"
+06075,County,San Francisco County,,Non_Hispanic_Latino White,2014_2018,Number,"34,369"
+0667000,City,San Francisco,San Francisco County,African American_Black,2010_2014,Number,"8,006"
+0667000,City,San Francisco,San Francisco County,African American_Black,2011_2015,Number,"7,700"
+0667000,City,San Francisco,San Francisco County,African American_Black,2012_2016,Number,"7,561"
+0667000,City,San Francisco,San Francisco County,African American_Black,2013_2017,Number,"7,379"
+0667000,City,San Francisco,San Francisco County,African American_Black,2014_2018,Number,"7,195"
+0667000,City,San Francisco,San Francisco County,American Indian_Alaska Native,2010_2014,Number,463
+0667000,City,San Francisco,San Francisco County,American Indian_Alaska Native,2011_2015,Number,403
+0667000,City,San Francisco,San Francisco County,American Indian_Alaska Native,2012_2016,Number,371
+0667000,City,San Francisco,San Francisco County,American Indian_Alaska Native,2013_2017,Number,534
+0667000,City,San Francisco,San Francisco County,American Indian_Alaska Native,2014_2018,Number,364
+0667000,City,San Francisco,San Francisco County,Asian American,2010_2014,Number,"35,688"
+0667000,City,San Francisco,San Francisco County,Asian American,2011_2015,Number,"35,743"
+0667000,City,San Francisco,San Francisco County,Asian American,2012_2016,Number,"35,533"
+0667000,City,San Francisco,San Francisco County,Asian American,2013_2017,Number,"35,069"
+0667000,City,San Francisco,San Francisco County,Asian American,2014_2018,Number,"34,433"
+0667000,City,San Francisco,San Francisco County,Hispanic_Latino of Any Race,2010_2014,Number,"25,506"
+0667000,City,San Francisco,San Francisco County,Hispanic_Latino of Any Race,2011_2015,Number,"25,971"
+0667000,City,San Francisco,San Francisco County,Hispanic_Latino of Any Race,2012_2016,Number,"26,468"
+0667000,City,San Francisco,San Francisco County,Hispanic_Latino of Any Race,2013_2017,Number,"26,826"
+0667000,City,San Francisco,San Francisco County,Hispanic_Latino of Any Race,2014_2018,Number,"27,223"
+0667000,City,San Francisco,San Francisco County,Multiracial,2010_2014,Number,"12,387"
+0667000,City,San Francisco,San Francisco County,Multiracial,2011_2015,Number,"13,457"
+0667000,City,San Francisco,San Francisco County,Multiracial,2012_2016,Number,"14,761"
+0667000,City,San Francisco,San Francisco County,Multiracial,2013_2017,Number,"15,323"
+0667000,City,San Francisco,San Francisco County,Multiracial,2014_2018,Number,"16,995"
+0667000,City,San Francisco,San Francisco County,Native Hawaiian_Pacific Islander,2010_2014,Number,883
+0667000,City,San Francisco,San Francisco County,Native Hawaiian_Pacific Islander,2011_2015,Number,854
+0667000,City,San Francisco,San Francisco County,Native Hawaiian_Pacific Islander,2012_2016,Number,590
+0667000,City,San Francisco,San Francisco County,Native Hawaiian_Pacific Islander,2013_2017,Number,672
+0667000,City,San Francisco,San Francisco County,Native Hawaiian_Pacific Islander,2014_2018,Number,535
+0667000,City,San Francisco,San Francisco County,Non_Hispanic_Latino White,2010_2014,Number,"31,178"
+0667000,City,San Francisco,San Francisco County,Non_Hispanic_Latino White,2011_2015,Number,"32,207"
+0667000,City,San Francisco,San Francisco County,Non_Hispanic_Latino White,2012_2016,Number,"33,122"
+0667000,City,San Francisco,San Francisco County,Non_Hispanic_Latino White,2013_2017,Number,"33,953"
+0667000,City,San Francisco,San Francisco County,Non_Hispanic_Latino White,2014_2018,Number,"34,369"
+
